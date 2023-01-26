@@ -1,0 +1,19 @@
+ 
+ 
+ INSERTS
+ 
+	
+ /*
+-- Query: SELECT * FROM examen_bda.productos
+LIMIT 0, 1000
+
+-- Date: 2023-01-26 12:23
+*/
+INSERT INTO `` (`codigo`,`cantidad`,`descripcion`,`precio`) VALUES (1,'50','colafiora','1.55');
+INSERT INTO `` (`codigo`,`cantidad`,`descripcion`,`precio`) VALUES (2,'50','colacoca','1.55');
+INSERT INTO `` (`codigo`,`cantidad`,`descripcion`,`precio`) VALUES (3,'50','colacoinkcaca','1.55');
+INSERT INTO `` (`codigo`,`cantidad`,`descripcion`,`precio`) VALUES (4,'50','colafiora','1.55');
+    
+    Link del DRIVE
+    https://drive.google.com/drive/folders/19vpQQYLgXWAmuGUrZtjoq5eyZA5rgCvA?usp=sharing
+    
